@@ -1,0 +1,20 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: "comic sans ms";
+}
+
+body {
+  scroll-behavior: smooth;
+  list-style-type: none;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#project {
+  background-color: #e2edff;
+}
